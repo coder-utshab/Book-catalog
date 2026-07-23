@@ -1,8 +1,10 @@
 const Books = () => {
   return (
-    <section>
-      <h1>Books</h1>
-    </section>
+    <div className="my-16">
+      <h2 className="text-4xl font-bold text-center">
+        Books
+      </h2>
+    </div>
   );
 };
 
