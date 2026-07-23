@@ -1,0 +1,28 @@
+[
+  {
+    "bookId": 1,
+    "bookName": "Atomic Habits",
+    "author": "James Clear",
+    "image": "https://i.ibb.co/...",
+    "review": "A practical guide to building good habits and breaking bad ones.",
+    "totalPages": 320,
+    "rating": 4.8,
+    "category": "Self Help",
+    "tags": ["Productivity", "Habits"],
+    "publisher": "Penguin Random House",
+    "yearOfPublishing": 2018
+  },
+  {
+    "bookId": 2,
+    "bookName": "Deep Work",
+    "author": "Cal Newport",
+    "image": "https://i.ibb.co/...",
+    "review": "Learn how to focus without distraction.",
+    "totalPages": 296,
+    "rating": 4.7,
+    "category": "Productivity",
+    "tags": ["Focus", "Career"],
+    "publisher": "Grand Central Publishing",
+    "yearOfPublishing": 2016
+  }
+]
